@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f889934.css",
+    "main.js": "/static/js/main.9cbee937.js",
+    "static/media/inspiration-retail.jpg": "/static/media/inspiration-retail.e040c41d28aba483ab25.jpg",
+    "static/media/inspiration-it.jpg": "/static/media/inspiration-it.539feaebce99f1721434.jpg",
+    "static/media/service-it-infra.png": "/static/media/service-it-infra.f0e9901d6d0f529465bd.png",
+    "static/media/service-pos.png": "/static/media/service-pos.e6b100fcb80add99d9f7.png",
+    "static/media/service-cctv.png": "/static/media/service-cctv.64b583d248c115d2cc13.png",
+    "static/media/service-support.png": "/static/media/service-support.9e4bc0a5d34baea04df2.png",
+    "static/media/inspiration-cctv.png": "/static/media/inspiration-cctv.cd0f8d98e2a602ec34b9.png",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.707ac87ba5e424c3ec39.jpg",
+    "static/media/amitc-logo.png": "/static/media/amitc-logo.869a6c7bb9227e5c485f.png",
+    "static/media/amitc-logo-white.png": "/static/media/amitc-logo-white.f9f0fb3537ba5b50be05.png",
+    "index.html": "/index.html",
+    "main.7f889934.css.map": "/static/css/main.7f889934.css.map",
+    "main.9cbee937.js.map": "/static/js/main.9cbee937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f889934.css",
+    "static/js/main.9cbee937.js"
+  ]
+}
