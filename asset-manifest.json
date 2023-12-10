@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.f195cbae.css",
-    "main.js": "./static/js/main.da9f5bd4.js",
+    "main.js": "./static/js/main.c8bcc877.js",
     "static/media/inspiration-retail.jpg": "./static/media/inspiration-retail.e040c41d28aba483ab25.jpg",
     "static/media/inspiration-it.jpg": "./static/media/inspiration-it.539feaebce99f1721434.jpg",
     "static/media/service-it-infra.png": "./static/media/service-it-infra.f0e9901d6d0f529465bd.png",
@@ -14,10 +14,10 @@
     "static/media/amitc-logo-white.png": "./static/media/amitc-logo-white.f9f0fb3537ba5b50be05.png",
     "index.html": "./index.html",
     "main.f195cbae.css.map": "./static/css/main.f195cbae.css.map",
-    "main.da9f5bd4.js.map": "./static/js/main.da9f5bd4.js.map"
+    "main.c8bcc877.js.map": "./static/js/main.c8bcc877.js.map"
   },
   "entrypoints": [
     "static/css/main.f195cbae.css",
-    "static/js/main.da9f5bd4.js"
+    "static/js/main.c8bcc877.js"
   ]
 }
