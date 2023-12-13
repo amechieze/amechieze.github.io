@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.6ffdb200.css",
-    "main.js": "./static/js/main.176188e2.js",
+    "main.css": "./static/css/main.b8cf5918.css",
+    "main.js": "./static/js/main.c5feb1bb.js",
     "static/media/inspiration-retail.jpg": "./static/media/inspiration-retail.e040c41d28aba483ab25.jpg",
     "static/media/inspiration-it.jpg": "./static/media/inspiration-it.539feaebce99f1721434.jpg",
     "static/media/service-it-infra.png": "./static/media/service-it-infra.f0e9901d6d0f529465bd.png",
@@ -13,11 +13,11 @@
     "static/media/amitc-logo.png": "./static/media/amitc-logo.869a6c7bb9227e5c485f.png",
     "static/media/amitc-logo-white.png": "./static/media/amitc-logo-white.f9f0fb3537ba5b50be05.png",
     "index.html": "./index.html",
-    "main.6ffdb200.css.map": "./static/css/main.6ffdb200.css.map",
-    "main.176188e2.js.map": "./static/js/main.176188e2.js.map"
+    "main.b8cf5918.css.map": "./static/css/main.b8cf5918.css.map",
+    "main.c5feb1bb.js.map": "./static/js/main.c5feb1bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ffdb200.css",
-    "static/js/main.176188e2.js"
+    "static/css/main.b8cf5918.css",
+    "static/js/main.c5feb1bb.js"
   ]
 }
